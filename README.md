@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=e9edc9&height=150&section=header&text=JIHYUN%20AN&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=277da1&height=150&section=header&text=JIHYUN%20AN&fontSize=70&animation=fadeIn&fontColor=f2e9e4)
 
 <br>
 
