@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=277da1&height=150&section=header&text=JIHYUN%20AN&fontSize=70&animation=fadeIn&fontColor=f2e9e4)
 
-<br>
+<br />
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -20,6 +20,5 @@
 <h3 align="center"> About Me👩🏻‍🎓 </h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Velog-1cca97?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
+<a href="https://velog.io/@hwiyu25"><img src="https://img.shields.io/badge/Velog-1cca97?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
 </p>
