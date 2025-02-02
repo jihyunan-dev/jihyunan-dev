@@ -23,7 +23,7 @@
 ![Recoil](https://img.shields.io/badge/recoil-%233578E5.svg?style=for-the-badge&logo=recoil&logoColor=white)
 ![MobX](http://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=MobX&logoColor=white)
 
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![Apollo-GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
